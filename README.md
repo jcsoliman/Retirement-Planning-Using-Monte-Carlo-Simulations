@@ -71,6 +71,7 @@ Retiring earlier than 30 years could mean a shortened period for the portfolio t
 #### Higher risk
 
 Increasing the stock to bond ratio to 70:30 and keeping initial investment at 50,000, we find:
+
 | | |
 | :--- | :--- |
 | cumulative return range | 0.5211 - 2.2977 |
@@ -111,6 +112,7 @@ As expected, cumulative returns are lower. And even with a 75% increase in initi
 #### Higher risk and initial investment
 
 Increasing the stock to bond ratio to 70:30 and initial investment by 75% (87,500), we find:
+
 | | |
 | :--- | :--- |
 | cumulative return range | 0.5311 - 2.3359 |
