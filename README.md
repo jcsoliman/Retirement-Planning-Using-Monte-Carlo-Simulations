@@ -93,7 +93,7 @@ With a riskier portfolio with 70:30 stocks to bonds ratio, we see lower yield ac
 
 Investing more by 75% (87,500) and keeping 60:40 stocks to bond ratio, we get:
 
-| | |
+| |  |
 | :--- | :--- |
 | cumulative return range | 0.61 - 2.44 |
 | 90% confidence interval | 0.8564 - 1.8326 |
